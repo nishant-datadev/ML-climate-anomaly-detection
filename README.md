@@ -7,9 +7,12 @@ It also illustrates a consistent rise in average global temperatures over time, 
 📁 Project Structure
 --------------------
 
-├── data/                     Original dataset from Kaggle (or link to it)
-├── notebooks/                Jupyter Notebook with full analysis
+├── data/                     Climate Anomaly Dataset file contaning data from 1800 to 2024
+
+├── analysis/                Jupyter Notebook with full analysis
+
 ├── requirements.txt          Python environment dependencies
+
 └── README.md                 Project documentation
 
 📊 Project Overview
