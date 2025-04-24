@@ -3,10 +3,10 @@
 
 A data-driven exploration of land, ocean, and combined temperature anomalies from 1880 to 2024. This project leverages visualization and statistical techniques to uncover long-term climate trends, detect outliers and highlight patterns in global temperature behavior.
 It also illustrates a consistent rise in average global temperatures over time, highlighting the ongoing impact of global warming.
+
 📁 Project Structure
 --------------------
 
-.
 ├── data/                     # Original dataset from Kaggle (or link to it)
 ├── notebooks/                # Jupyter Notebook with full analysis
 ├── requirements.txt          # Python environment dependencies
