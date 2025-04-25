@@ -7,13 +7,13 @@ It also illustrates a consistent rise in average global temperatures over time, 
 📁 Project Structure
 --------------------
 
-├── data/                    |||| Climate Anomaly Dataset file contaning data from 1800 to 2024
+├── data/                    * Climate Anomaly Dataset file contaning data from 1800 to 2024 *
 
-├── ML-Climate-Anomaly-Detetction-1800-2025.ipynb     |||| Jupyter Notebook with full analysis
+├── ML-Climate-Anomaly-Detetction-1800-2025.ipynb     * Jupyter Notebook with full analysis *
 
-├── requirements.txt         |||| Python environment dependencies
+├── requirements.txt         * Python environment dependencies *
 
-└── README.md                |||| Project documentation
+└── README.md                * Project documentation *
 
 📊 Project Overview
 -------------------
