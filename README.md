@@ -1,8 +1,8 @@
 🌡️ Global Temperature Anomaly Detection by Studying Temperature Trends from 1800 to 2024
 ========================================================================================
 
-A data-driven exploration of land, ocean, and combined temperature anomalies from 1880 to 2024. This project leverages visualization and statistical techniques to uncover long-term climate trends, detect outliers and highlight patterns in global temperature behavior.
-It also illustrates a consistent rise in average global temperatures over time, highlighting the ongoing impact of global warming.
+An ML data-driven exploration of land, ocean, and combined temperature anomalies from 1880 to 2024. This project leverages visualization and statistical techniques to uncover long-term climate trends, detect outliers and highlight patterns in global temperature behavior.
+It also illustrates a consistent rise in average global temperatures over time, highlighting the ongoing impact of global warming. Uses machine learning to predict the global temperature rise in next 100 years.
 
 📁 Project Structure
 --------------------
@@ -19,26 +19,32 @@ It also illustrates a consistent rise in average global temperatures over time, 
 -------------------
 
 🔍 Objective
+-------------------
 - Explore historical temperature anomaly data.
 - Identify trends and climate shifts.
 - Visualize anomalies (land, ocean, combined).
 - Detect outliers using Z-score analysis.
 
 📈 Dataset
+-------------------
 - Source: Kaggle->global-temperature-anomaly-data
 - Fields: YearMonth, Station, Land_Ocean, Land_Only, Open_Ocean
 - Processed: Parsed date, added Z-score columns.
 
-🧪 Technologies Used
---------------------
-- Python (Miniconda)
-- Jupyter Notebook
-- Pandas
-- Matplotlib, Seaborn
-- NumPy
+🛠️ Technologies & Tools Used
+-------------------------------
+- **Python** – Core language for analysis and modeling
+- **Pandas** – Data manipulation and preprocessing
+- **Seaborn** - Used for creating enhanced, aesthetically pleasing statistical visualizations. Helped highlight trends and outliers more clearly in temperature anomaly data.
+- **NumPy** – Numerical operations
+- **Matplotlib** – Visualizations and charting
+- **Scikit-learn** – Linear Regression modeling and predictions
+- **Jupyter Notebook** – Interactive development environment
+- **Machine Learning** – Supervised learning using Linear Regression
+- **Time Series Analysis** – Forecasting future temperature anomalies
 
 📌 Key Features
----------------
+-------------------
 - Date parsing and formatting
 - Z-score based outlier detection
 - Trend visualization
