@@ -1,8 +1,9 @@
-🌡️ Global Temperature Anomaly Detection by Studying Temperature Trends from 1800 to 2024
+🌡️ Global Temperature Anomaly Detection by Studying Temperature Trends from 1800 to 2024. Global Temperature Rise prediction for next hundred years (2025 to 2125) using Machine Learning.
 ========================================================================================
 
-An ML data-driven exploration of land, ocean, and combined temperature anomalies from 1880 to 2024. This project leverages visualization and statistical techniques to uncover long-term climate trends, detect outliers and highlight patterns in global temperature behavior.
-It also illustrates a consistent rise in average global temperatures over time, highlighting the ongoing impact of global warming. Uses machine learning to predict the global temperature rise in next 100 years.
+An Machine Learning and data-driven exploration of land, ocean and combined temperature anomalies from 1880 to 2024 using NASA GISTEMP data. This project leverages visualization and statistical techniques to uncover long-term climate trends, detect outliers and highlight patterns in global temperature behavior.
+It also illustrates a consistent rise in average global temperatures over time, highlighting the ongoing impact of global warming.
+Uses machine learning to predict the global temperature rise in next 100 years from 2025 to 2125.
 
 📁 Project Structure
 --------------------
